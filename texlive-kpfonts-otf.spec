@@ -1,6 +1,6 @@
 Name:		texlive-kpfonts-otf
 Version:	65082
-Release:	1
+Release:	2
 Summary:	OpenType version of the kpfonts (Type1) designed by Christophe Caignaert
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kpfonts-otf
