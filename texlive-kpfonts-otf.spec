@@ -3,7 +3,7 @@ Version:	71153
 Release:	1
 Summary:	OpenType version of the kpfonts (Type1) designed by Christophe Caignaert
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kpfonts-otf
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/kpfonts-otf
 License:	ofl lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kpfonts-otf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kpfonts-otf.doc.r%{version}.tar.xz
